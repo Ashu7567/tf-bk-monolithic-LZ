@@ -13,6 +13,7 @@ rgs = {
     name     = "rg-john-dev"
     location = "centralindia"
 }
+}
 
 vnets = {
   vnet1 = {
